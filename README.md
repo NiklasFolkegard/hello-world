@@ -11,3 +11,4 @@ www: det kom fram. Sparar här. Provar Fetch & Rebase på Win härnäst.
 Win: Det fungerade. Går direkt på Git Commit > master denna gång.
 www: funkade bra. Provar git sync på Win härnäst.
 Win: verkar som att Tortoise inte behövs?
+www: ...för Tortoise är bara ett gui ovanpå själva git?
