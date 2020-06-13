@@ -4,4 +4,4 @@ Tortoise Git > Add. Commit. OK.
 Git Commit -> "master". Välj Commit & Push.
 
 www: lägger till rad. Sparar.
-www: Jag fattar inte hur jag ska få ändringarna till Win. Provade Tortoise > Fetch
+www: Jag fattar inte hur jag ska få ändringarna till Win. Provade Tortoise > Fetch och Tortoise>Rebase. Det verkar funka.
