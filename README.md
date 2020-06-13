@@ -10,3 +10,4 @@ Win: Tror jag har fattat nu. Skriver här. Sparar. Tortoise>Add. commit. ok. Git
 www: det kom fram. Sparar här. Provar Fetch & Rebase på Win härnäst.
 Win: Det fungerade. Går direkt på Git Commit > master denna gång.
 www: funkade bra. Provar git sync på Win härnäst.
+Win: verkar som att Tortoise inte behövs?
