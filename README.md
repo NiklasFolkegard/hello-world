@@ -12,3 +12,7 @@ Win: Det fungerade. Går direkt på Git Commit > master denna gång.
 www: funkade bra. Provar git sync på Win härnäst.
 Win: verkar som att Tortoise inte behövs?
 www: ...för Tortoise är bara ett gui ovanpå själva git?
+
+Win:
+Nu har jag en förenklad arbetsgång där jag kan ändra och lägga upp/ladda hem.
+Nästa test: Lägga till filer?
