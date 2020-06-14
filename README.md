@@ -16,3 +16,6 @@ www: ...för Tortoise är bara ett gui ovanpå själva git?
 Win:
 Nu har jag en förenklad arbetsgång där jag kan ändra och lägga upp/ladda hem.
 Nästa test: Lägga till filer?
+
+www:
+Det gick bra. Har även lagt till desktop.github.com på Win så nu går det ännu smidigare att jobba.
