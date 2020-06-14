@@ -19,3 +19,6 @@ Nästa test: Lägga till filer?
 
 www:
 Det gick bra. Har även lagt till desktop.github.com på Win så nu går det ännu smidigare att jobba.
+
+
+Lin: Ändrat på Linux. git commit -m "lagt till fran Linux" git push -all
