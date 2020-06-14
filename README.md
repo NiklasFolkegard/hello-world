@@ -25,4 +25,10 @@ Lin: Ändrat på Linux. git commit -m "lagt till fran Linux" git push -all
 
 www: EDIT: på Linux använde jag git commit -a. Då öppnades en Vi-prompt där jag kunde skriva meddelandet, ESC, :wq och sedan gjordes commiten. Därefter git push -all
 
+www: försökte lägga till filer från Linux, men körde in i ett antal problem:
+1. Måste göra git -add *
+2. Sedan git commit -a
+3. Sedan git push -all
+4. Men kolla först så att du har den senaste versionen från remote. Det hade inte jag. Då fick jag göra git pull URL först.
+
 
