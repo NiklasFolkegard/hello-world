@@ -22,3 +22,7 @@ Det gick bra. Har även lagt till desktop.github.com på Win så nu går det än
 
 
 Lin: Ändrat på Linux. git commit -m "lagt till fran Linux" git push -all
+
+www: EDIT: på Linux använde jag git commit -a. Då öppnades en Vi-prompt där jag kunde skriva meddelandet, ESC, :wq och sedan gjordes commiten. Därefter git push -all
+
+
